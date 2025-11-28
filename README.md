@@ -41,10 +41,10 @@ root@m0h1nd4:~# whoami
 
 <a href="#" title="Legacy Protocol: Fine Art Photography (Obfuscated)">
   <img src="https://img.shields.io/badge/CONTENT-CENSORED-00BFFF?style=for-the-badge&logo=adblock&logoColor=white&labelColor=000000" alt="Censored" />
-  <img src="https://img.shields.io/badge/NSFW_FILTER-ACTIVE-00BFFF?style=for-the-badge&logo=eye&logoColor=white&labelColor=000000" alt="Filter Active" />
+  
 </a>
 
-<img src="https://img.shields.io/badge/Method-Crowbar-red?style=for-the-badge&logo=hammer&logoColor=white" alt="Brechstange" />
+
 
   <br/> 
   
