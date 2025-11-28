@@ -41,16 +41,7 @@ root@m0h1nd4:~# whoami
 
 <br/><a href="#" title="Legacy Protocol: Fine Art Photography (Obfuscated)">
   <img src="https://img.shields.io/badge/CONTENT-CENSORED-00BFFF?style=for-the-badge&logo=adblock&logoColor=white&labelColor=000000" alt="Censored" />
-  
 </a>
-
-
-
-  <br/> 
-  
-  <a href="#" title="Steganography Challenge: Original RAW Data encoded in Pixels">
-    <img src="https://img.shields.io/badge/STEGANOGRAPHY-PAYLOAD_HIDDEN-00BFFF?style=for-the-badge&logo=gnu-privacy-guard&logoColor=white&labelColor=000000" alt="Hidden Asset" />
-  </a>
   
 </div>
 
