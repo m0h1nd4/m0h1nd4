@@ -26,13 +26,19 @@ root@m0h1nd4:~# whoami
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Kali_Linux-557C94%3Fstyle%3Dfor-the-badge%26logo%3Dkalilinux%26logoColor%3Dwhite" alt="Kali" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Parrot_OS-00FDFF%3Fstyle%3Dfor-the-badge%26logo%3Dlinux%26logoColor%3Dblack" alt="Parrot" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Ubuntu-E95420%3Fstyle%3Dfor-the-badge%26logo%3Dubuntu%26logoColor%3Dwhite" alt="Ubuntu" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Windows-0078D6%3Fstyle%3Dfor-the-badge%26logo%3Dwindows%26logoColor%3Dwhite" alt="Windows" />
 
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/AI_Agents-7000FF%3Fstyle%3Dfor-the-badge%26logo%3Dopenai%26logoColor%3Dwhite" alt="AI Agents" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Custom_Tools-FFD700%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dblack" alt="Self Designed" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Method-Crowbar-red%3Fstyle%3Dfor-the-badge%26logo%3Dhammer%26logoColor%3Dwhite" alt="Brechstange" />
+
+</div>
+
 <img src="https://img.shields.io/badge/Method-Crowbar-red?style=for-the-badge&logo=hammer&logoColor=white" alt="Brechstange" />
 
   <br/> <a href="#" title="Protocol initiated. (My Photoshop Art)">
     <img src="https://img.shields.io/badge/ENVIRONMENT-TOXIC-00BFFF?style=for-the-badge&logo=biohazard&logoColor=white&labelColor=000000" alt="Toxic Environment" />
     <img src="https://img.shields.io/badge/PROTOCOL-GAS_MASK_ON-00BFFF?style=for-the-badge&logo=adguard&logoColor=white&labelColor=000000" alt="Gas Mask On" />
   </a>
-</div>
+  
+<a href="#" title="Source: Original RAW File (Layer 0 visibility hidden)">
+  <img src="https://img.shields.io/badge/STEGANOGRAPHY-PAYLOAD_HIDDEN-00BFFF?style=for-the-badge&logo=gnu-privacy-guard&logoColor=white&labelColor=000000" alt="Hidden Content" />
+</a>
 
 <h2 align="center">📊 <span style="color:#FFD700">SYSTEM METRICS</span> </h2>
 
