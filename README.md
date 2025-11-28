@@ -33,15 +33,12 @@ root@m0h1nd4:~# whoami
   <br/> <a href="#" title="Protocol initiated. (My Photoshop Art)">
     <img src="https://img.shields.io/badge/ENVIRONMENT-TOXIC-00BFFF?style=for-the-badge&logo=biohazard&logoColor=white&labelColor=000000" alt="Toxic Environment" /><br/>
     <img src="https://img.shields.io/badge/PROTOCOL-GAS_MASK_ON-00BFFF?style=for-the-badge&logo=adguard&logoColor=white&labelColor=000000" alt="Gas Mask On" />
+    <img src="https://img.shields.io/badge/STEGANOGRAPHY-PAYLOAD_HIDDEN-00BFFF?style=for-the-badge&logo=gnu-privacy-guard&logoColor=white&labelColor=000000" alt="Hidden Content" />
+    <a href="#" title="Legacy Protocol: Fine Art Photography (Obfuscated)">
+      <img src="https://img.shields.io/badge/CONTENT-CENSORED-00BFFF?style=for-the-badge&logo=adblock&logoColor=white&labelColor=000000" alt="Censored" />
+    </a>
   </a>
   
-<a href="#" title="Source: Original RAW File (Layer 0 visibility hidden)">
-  <img src="https://img.shields.io/badge/STEGANOGRAPHY-PAYLOAD_HIDDEN-00BFFF?style=for-the-badge&logo=gnu-privacy-guard&logoColor=white&labelColor=000000" alt="Hidden Content" />
-</a>
-
-<br/><a href="#" title="Legacy Protocol: Fine Art Photography (Obfuscated)">
-  <img src="https://img.shields.io/badge/CONTENT-CENSORED-00BFFF?style=for-the-badge&logo=adblock&logoColor=white&labelColor=000000" alt="Censored" />
-</a>
   
 </div>
 
