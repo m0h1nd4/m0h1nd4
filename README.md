@@ -11,7 +11,7 @@
   </h3>
 </div>
 
-```bash
+
 root@m0h1nd4:~# whoami
 > Cyber Security Enthusiast
 > AI Agent Developer
