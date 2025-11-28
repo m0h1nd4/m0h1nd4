@@ -38,7 +38,6 @@ root@m0h1nd4:~# whoami
 
 <div align="center">
 
-```<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dm0h1nd4%26style%3Dfor-the-badge%26color%3DFFD700%26label%3DVISITORS" alt="Visitor Counter" />```
 
 
 <code>Connection terminated.</code> </div>
