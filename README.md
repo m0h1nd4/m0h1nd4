@@ -1,16 +1,18 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**m0h1nd4/m0h1nd4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img src="https://via.placeholder.com/1000x300/0a0a0a/FFD700?text=MAJA+IT+SOLUTIONS+|+CYBER+SECURITY" alt="Banner" width="100%" />
+  
+  <br/>
+  
+  <h1 align="center" style="font-weight: bold; color: #FFD700;"> >_ m0h1nd4 </h1>
+  
+  <h3 align="center" style="color: #ffffff;">
+     <img src="https://media.giphy.com/media/MbMz2p4UqE676/giphy.gif" width="30px" style="vertical-align: middle;"> SYSTEM ONLINE // PENTESTER // DEVELOPER
+  </h3>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```bash
+root@m0h1nd4:~# whoami
+> Cyber Security Enthusiast
+> AI Agent Developer
+> Pragmatic Problem Solver (Physical & Digital)
