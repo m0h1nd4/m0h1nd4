@@ -27,8 +27,7 @@ root@m0h1nd4:~# whoami
 
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/AI_Agents-7000FF%3Fstyle%3Dfor-the-badge%26logo%3Dopenai%26logoColor%3Dwhite" alt="AI Agents" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Custom_Tools-FFD700%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dblack" alt="Self Designed" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Method-Crowbar-red%3Fstyle%3Dfor-the-badge%26logo%3Dhammer%26logoColor%3Dwhite" alt="Brechstange" />
 
-</div>
-<div>
+
 <img src="https://img.shields.io/badge/Method-Crowbar-red?style=for-the-badge&logo=hammer&logoColor=white" alt="Brechstange" />
 
   <br/> <a href="#" title="Protocol initiated. (My Photoshop Art)">
@@ -45,6 +44,14 @@ root@m0h1nd4:~# whoami
   <img src="https://img.shields.io/badge/NSFW_FILTER-ACTIVE-00BFFF?style=for-the-badge&logo=eye&logoColor=white&labelColor=000000" alt="Filter Active" />
 </a>
 
+<img src="https://img.shields.io/badge/Method-Crowbar-red?style=for-the-badge&logo=hammer&logoColor=white" alt="Brechstange" />
+
+  <br/> 
+  
+  <a href="#" title="Steganography Challenge: Original RAW Data encoded in Pixels">
+    <img src="https://img.shields.io/badge/STEGANOGRAPHY-PAYLOAD_HIDDEN-00BFFF?style=for-the-badge&logo=gnu-privacy-guard&logoColor=white&labelColor=000000" alt="Hidden Asset" />
+  </a>
+  
 </div>
 
 <h2 align="center">📊 <span style="color:#FFD700">SYSTEM METRICS</span> </h2>
